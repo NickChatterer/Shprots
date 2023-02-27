@@ -75,7 +75,7 @@ body {
     display: block;
     width: 95px;
     height: 80px;
-   background-image: url(../from\ youtube/img/logo1.png);
+   background-image: url(img/logo1.png);
    margin-right: 10px;
 }
 
@@ -115,7 +115,7 @@ font-size: 16px;
     }
 
 .banner {
-    background-image: url(../from\ youtube/img/bg.png);
+    background-image: url(img/bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -293,19 +293,19 @@ font-size: 16px;
     }
 
     .social-youtube {
-        background-image: url(../from\ youtube/img/youtube.png);
+        background-image: url(img/youtube.png);
     }
 
     .social-vk {
-        background-image: url(../from\ youtube/img/vk.png);
+        background-image: url(img/vk.png);
     }
 
     .social-ins {
-        background-image: url(../from\ youtube/img/ins.png);
+        background-image: url(img/ins.png);
     }
 
     .social-fb {
-        background-image: url(../from\ youtube/img/fb.png);
+        background-image: url(img/fb.png);
     }
 
     
